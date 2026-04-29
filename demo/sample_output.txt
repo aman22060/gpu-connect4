@@ -1,0 +1,60 @@
+Starting Connect 4 Game (GPU vs GPU)
+
+Player 1 plays column 3
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 1 0 0 0
+
+Player 2 plays column 2
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 2 0 0 0
+0 0 2 1 0 0 0
+
+Player 1 plays column 3
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 1 0 0 0
+0 0 0 2 0 0 0
+0 0 2 1 0 0 0
+
+Player 2 plays column 4
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 1 0 0 0
+0 0 0 2 2 0 0
+0 0 2 1 1 0 0
+
+Player 1 plays column 3
+0 0 0 0 0 0 0
+0 0 0 1 0 0 0
+0 0 0 1 0 0 0
+0 0 0 1 0 0 0
+0 0 0 2 2 0 0
+0 0 2 1 1 0 0
+
+Player 2 plays column 5
+0 0 0 0 0 0 0
+0 0 0 1 0 0 0
+0 0 0 1 0 0 0
+0 0 0 1 0 0 0
+0 0 0 2 2 2 0
+0 0 2 1 1 0 0
+
+Player 1 plays column 3
+0 0 0 1 0 0 0
+0 0 0 1 0 0 0
+0 0 0 1 0 0 0
+0 0 0 1 0 0 0
+0 0 0 2 2 2 0
+0 0 2 1 1 0 0
+
+Player 1 wins by connecting 4 vertically!
+Game Over.
